@@ -1,4 +1,6 @@
-import java.util.*;
+package Operadores;
+
+import java.util.Scanner;
 
 public class OperadoresTernarios {
     public static void main(String[] arg){

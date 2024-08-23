@@ -1,4 +1,4 @@
-import java.util.*;
+package Operadores;
 
 public class OperadoresRelacionais {
     public static void main(String[] args){
