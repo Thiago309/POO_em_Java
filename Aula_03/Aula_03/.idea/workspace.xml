@@ -5,45 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6847c3f6-277b-42fa-9ef7-9ae9d07efcdc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Aula_02/Aula_02/JavaBasico/JavaBasico.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula_02/POO_em_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicionais/ExemploIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicionais/ExemploSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repeticao/ExemploDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Repeticao/ExemploWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula_02/JavaBasico/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula_02/JavaBasico/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula_02/JavaBasico/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula_02/JavaBasico/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula_02/JavaBasico/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula_02/JavaBasico/JavaBasico.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula_02/JavaBasico/src/ComandosBasicos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula_02/JavaBasico/src/EntradaDeDados.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula_02/JavaBasico/src/Operadores/OperadoresAritmeticos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula_02/JavaBasico/src/Operadores/OperadoresAtribuicao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula_02/JavaBasico/src/Operadores/OperadoresRelacionais.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula_02/JavaBasico/src/Operadores/OperadoresTernarios.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Aula_02/JavaBasico/src/Operadores/OperadoresUnarios.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../POO_em_Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/POO_em_Java/ComandosBasicos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/POO_em_Java/EntradaDeDados.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/POO_em_Java/OperadoresAritmeticos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/POO_em_Java/OperadoresAtribuicao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/POO_em_Java/OperadoresRelacionais.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/POO_em_Java/OperadoresTernarios.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/POO_em_Java/OperadoresUnarios.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repeticao/ExemploLacoFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repeticao/ExemploLacoFor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2lLpb0KJPUsEAIltFWd7j68xCOa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -72,6 +36,7 @@
   "keyToString": {
     "Application.ExemploDoWhile.executor": "Run",
     "Application.ExemploIf.executor": "Run",
+    "Application.ExemploLacoFor2.executor": "Run",
     "Application.ExemploSwitch.executor": "Run",
     "Application.ExemploWhile.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
